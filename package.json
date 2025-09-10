@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "chrome-types": "^0.1.354",
-    "vite": "^6.3.5"
+    "vite": "^6.3.6"
   }
 }
